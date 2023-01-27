@@ -1,0 +1,210 @@
+[
+  {
+    "Passenger_Id": 3,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "Heikkinen, Miss. Laina",
+    "sex": "female",
+    "Age": 26
+  },
+  {
+    "Passenger_Id": 4,
+    "Survived": 1,
+    "pClass": 1,
+    "Name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "sex": "female",
+    "Age": 35
+  },
+  {
+    "Passenger_Id": 5,
+    "Survived": 0,
+    "pClass": 3,
+    "Name": "Allen, Mr. William Henry",
+    "sex": "male",
+    "Age": 35
+  },
+  {
+    "Passenger_Id": 6,
+    "Survived": 0,
+    "pClass": 3,
+    "Name": "Moran, Mr. James",
+    "sex": "male",
+    "Age": 0
+  },
+  {
+    "Passenger_Id": 7,
+    "Survived": 0,
+    "pClass": 2,
+    "Name": "McCarthy, Mr. Timothy J",
+    "sex": "male",
+    "Age": 54
+  },
+  {
+    "Passenger_Id": 10,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "Ronaldo",
+    "sex": "nazario",
+    "Age": 59
+  },
+  {
+    "Passenger_Id": 11,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "rayo",
+    "sex": "barca",
+    "Age": 8
+  },
+  {
+    "Passenger_Id": 12,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "Bonnell, Miss. Elizabeth",
+    "sex": "female",
+    "Age": 58
+  },
+  {
+    "Passenger_Id": 13,
+    "Survived": 0,
+    "pClass": 3,
+    "Name": "Saundercock, Mr. William Henry",
+    "sex": "male",
+    "Age": 20
+  },
+  {
+    "Passenger_Id": 14,
+    "Survived": 0,
+    "pClass": 2,
+    "Name": "Andersson, Mr. Anders Johan",
+    "sex": "\tmale",
+    "Age": 39
+  },
+  {
+    "Passenger_Id": 17,
+    "Survived": 0,
+    "pClass": 3,
+    "Name": "Rice, Master. Eugene",
+    "sex": "male",
+    "Age": 2
+  },
+  {
+    "Passenger_Id": 18,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "Williams, Mr. Charles Eugene",
+    "sex": "male",
+    "Age": 0
+  },
+  {
+    "Passenger_Id": 19,
+    "Survived": 0,
+    "pClass": 2,
+    "Name": "Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",
+    "sex": "female",
+    "Age": 31
+  },
+  {
+    "Passenger_Id": 20,
+    "Survived": 3,
+    "pClass": 3,
+    "Name": "tomas",
+    "sex": "muller",
+    "Age": 26
+  },
+  {
+    "Passenger_Id": 21,
+    "Survived": 0,
+    "pClass": 2,
+    "Name": "Fynney, Mr. Joseph J",
+    "sex": "male",
+    "Age": 35
+  },
+  {
+    "Passenger_Id": 22,
+    "Survived": 1,
+    "pClass": 2,
+    "Name": "Beesley, Mr. Lawrence",
+    "sex": "male",
+    "Age": 34
+  },
+  {
+    "Passenger_Id": 23,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "McGowan, Miss. Anna ",
+    "sex": "female",
+    "Age": 15
+  },
+  {
+    "Passenger_Id": 24,
+    "Survived": 1,
+    "pClass": 1,
+    "Name": "Sloper, Mr. William Thompson",
+    "sex": "male",
+    "Age": 28
+  },
+  {
+    "Passenger_Id": 25,
+    "Survived": 0,
+    "pClass": 3,
+    "Name": "Palsson, Miss. Torborg Danira",
+    "sex": "female",
+    "Age": 30
+  },
+  {
+    "Passenger_Id": 26,
+    "Survived": 1,
+    "pClass": 3,
+    "Name": "almada",
+    "sex": "de santos",
+    "Age": 29
+  },
+  {
+    "Passenger_Id": 27,
+    "Survived": 2,
+    "pClass": 0,
+    "Name": "angel",
+    "sex": "david",
+    "Age": 22
+  },
+  {
+    "Passenger_Id": 29,
+    "Survived": 3,
+    "pClass": 0,
+    "Name": "velma",
+    "sex": "woshin",
+    "Age": 29
+  },
+  {
+    "Passenger_Id": 30,
+    "Survived": 3,
+    "pClass": 0,
+    "Name": "oliver",
+    "sex": "atom",
+    "Age": 17
+  },
+  {
+    "Passenger_Id": 28,
+    "Survived": 1,
+    "pClass": 0,
+    "Name": "fred",
+    "sex": "malsao",
+    "Age": 28
+  },
+  {
+    "Passenger_Id": 31,
+    "Survived": 1,
+    "pClass": 0,
+    "Name": "casemero",
+    "sex": "hosteo",
+    "Age": 25
+  },
+  {
+    "Passenger_Id": 40,
+    "Survived": 1,
+    "pClass": 0,
+    "Name": "pablo",
+    "sex": "moloteco",
+    "Age": 28
+  }
+]
